@@ -1,0 +1,11 @@
+10
+IN 5
+IN 7
+DK 5 16
+EM
+IN 8
+IN 4
+IN 3
+DK 3 2
+IN 9
+EM
